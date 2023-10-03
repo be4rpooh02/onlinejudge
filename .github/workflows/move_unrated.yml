@@ -22,7 +22,7 @@ jobs: # 실제 실행될 내용
         pip install python-leetcode 
     - name: Run move unrated # 2) unrated 폴더 이동
       run: |
-        git mv 프로그래머스/unrated/ 프로그래머스/lv0/
+        git mv 프로그래머스/lv0/unrated/* 프로그래머스/lv0/
     - name: Commit changes # 3) 추가된 파일 commit
       run: |
         git config --global user.name 'be4rpooh02' # 유저명
