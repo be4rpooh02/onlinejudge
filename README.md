@@ -41,6 +41,11 @@
 |짝수 홀수 개수|[링크](./programmers/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98/solution.py)|
 |짝수의 합|[링크](./programmers/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9/solution.py)|
 |최댓값 만들기 (1)|[링크](./programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%281%29/solution.py)|
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
 ## 📚 프로그래머스
 ### 🚀 lv0
 | 문제번호 | 링크 |
