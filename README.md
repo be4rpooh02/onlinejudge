@@ -3,10 +3,6 @@
 
 개인 블로그 : https://www.bearpooh.com/
 
-### 🚀 programmers
-| 문제번호 | 링크 |
-| ----- | ----- |
-|모음 제거|[링크](./programmers/%EB%AA%A8%EC%9D%8C%20%EC%A0%9C%EA%B1%B0/solution.py)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
