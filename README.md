@@ -41,3 +41,8 @@
 |짝수 홀수 개수|[링크](./programmers/%EC%A7%9D%EC%88%98%20%ED%99%80%EC%88%98%20%EA%B0%9C%EC%88%98/solution.py)|
 |짝수의 합|[링크](./programmers/%EC%A7%9D%EC%88%98%EC%9D%98%20%ED%95%A9/solution.py)|
 |최댓값 만들기 (1)|[링크](./programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%281%29/solution.py)|
+## 📚 프로그래머스
+### 🚀 lv0
+| 문제번호 | 링크 |
+| ----- | ----- |
+|120847. 최댓값 만들기 （1）|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120847.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%85%EF%BC%881%EF%BC%89/README.md)|
