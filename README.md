@@ -3,7 +3,9 @@
 
 프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
 
-## 📚 baekjoon
+### 🚀 baekjoon
+| 문제번호 | 링크 |
+| ----- | ----- |
 |1000|[링크](./baekjoon/1000/solution.py)|
 |1001|[링크](./baekjoon/1001/solution.py)|
 |1008|[링크](./baekjoon/1008/solution.py)|
@@ -16,6 +18,8 @@
 |10998|[링크](./baekjoon/10998/solution.py)|
 |2557|[링크](./baekjoon/2557/solution.py)|
 |2588|[링크](./baekjoon/2588/solution.py)|
-## 📚 programmers
+### 🚀 programmers
+| 문제번호 | 링크 |
+| ----- | ----- |
 |두 수의 곱|[링크](./programmers/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1/solution.py)|
 |몫 구하기|[링크](./programmers/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0/solution.py)|
