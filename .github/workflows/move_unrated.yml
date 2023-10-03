@@ -22,13 +22,13 @@ jobs: # 실제 실행될 내용
         pip install python-leetcode 
     - name: Run move unrated # 2) unrated 폴더 이동
       run: |
-        git mv 프로그래머스/lv0/unrated/* 프로그래머스/lv0/
+        git mv 프로그래머스/unrated/* 프로그래머스/lv1/
     - name: Commit changes # 3) 추가된 파일 commit
       run: |
         git config --global user.name 'be4rpooh02' # 유저명
         git config --global user.email 'be4rpooh02@gmail.com' # 유저 이메일
         git add -A
-        git commit -am "auto update README.md" # 커밋 메시지
+        git commit -am "Move from unrated to lv1" # 커밋 메시지
     - name: Push changes # 4) 메인에 푸시
       run: |
         git push
