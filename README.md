@@ -24,6 +24,8 @@
 |나머지 구하기|[링크](./programmers/%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%ED%95%98%EA%B8%B0/solution.py)|
 |나이 출력|[링크](./programmers/%EB%82%98%EC%9D%B4%20%EC%B6%9C%EB%A0%A5/solution.py)|
 |두 수의 곱|[링크](./programmers/%EB%91%90%20%EC%88%98%EC%9D%98%20%EA%B3%B1/solution.py)|
+|두 수의 나눗셈|[링크](./programmers/%EB%91%90%20%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88/solution.py)|
 |두 수의 차|[링크](./programmers/%EB%91%90%20%EC%88%98%EC%9D%98%20%EC%B0%A8/solution.py)|
+|두 수의 합|[링크](./programmers/%EB%91%90%20%EC%88%98%EC%9D%98%20%ED%95%A9/solution.py)|
 |몫 구하기|[링크](./programmers/%EB%AA%AB%20%EA%B5%AC%ED%95%98%EA%B8%B0/solution.py)|
 |숫자 비교하기|[링크](./programmers/%EC%88%AB%EC%9E%90%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/solution.py)|
