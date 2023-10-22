@@ -4,12 +4,12 @@ def solution(clothes):
     
     for cloth in clothes:
         if not wears.get(cloth[-1]):
-            wears[cloth[-1]] = 1
+            wears[cloth[-1]] = 2
         else:
             wears[cloth[-1]] += 1
             
     for cloth in wears.keys():
-        comb = comb*(wears[cloth]+1)
+        comb = comb*wears[cloth]
     
     answer = comb - 1 if len(wears.keys()) > 1 else len(clothes)
     
