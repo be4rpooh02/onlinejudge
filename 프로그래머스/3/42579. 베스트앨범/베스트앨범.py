@@ -1,6 +1,5 @@
 def solution(genres, plays):
     import heapq
-    import operator
 
     answer = []
     plist = {}    # music list
@@ -14,7 +13,7 @@ def solution(genres, plays):
         
         heapq.heappush(plist[genre], (-play, idx))
         
-    tp = sorted(tp.items(), key=operator.itemgetter(1), reverse=True)
+    tp = sorted(tp.items(), key=lambda x: x[-1], reverse=True)
 
     for genre, gc in tp:
         for _ in range(2):
