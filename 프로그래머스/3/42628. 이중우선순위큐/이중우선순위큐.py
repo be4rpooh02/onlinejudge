@@ -14,6 +14,7 @@ def solution(operations):
                 heapq.heappop(answer)
             if v == "1":
                 answer.pop(-1)
+                heapq.heapify(answer)
             
     if answer:
         answer = [max(answer), heapq.heappop(answer)]
