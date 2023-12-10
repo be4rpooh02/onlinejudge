@@ -1,28 +1,15 @@
 def solution(s):
-    xcnt, ycnt = 0, 0
-    x = None
-    slen = len(s) - 1
+    cnt = 0
+    idy = 0
     answer = 0
     
     for idx, ch in enumerate(s):
-        if not xcnt:
-            x = ch
-            xcnt += 1
-            continue
-            
-        if ch == x:
-            xcnt += 1
-            continue
-
-        if x != ch:
-            ycnt += 1
-            
-            if ycnt == xcnt:
-                answer += 1
-                x = ""
-                xcnt, ycnt = 0, 0
+        cnt += 1 if ch == s[idy] else -1
+                    
+        if not cnt:
+            answer += 1
+            idy = idx+1
     
-    if xcnt != ycnt:
-        answer += 1
+    answer += 1 if cnt else 0
     
     return answer
